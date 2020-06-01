@@ -1,9 +1,28 @@
 GIT PRACTICE WORKSHEET
 
-This is a worksheet. SU has now typed on it
+(If you haven't already gone through the steps in "setup_instructions.txt,"
+you should do those first)
 
-What formatting does it apply?  Not much.
+To learn about using Git, we're going to do something that should be familar
+from school: fill out a worksheet.  
 
-But it does allow for typing
+As you go through and answer questions, think about the four places that your
+changes (answers) get recorded to: the file on your computer, your local Git 
+repository, and your remote Git repository. Any work you do has to get to that
+last stop if you're ever going to be able to share it with your teammates.
 
-SU has done even more typing on it. Nice!
+Answer the first question (and only the first one) in the space provided.
+
+1. WHAT DID YOU LAST HAVE FOR LUNCH?
+
+ANSWER 1: 
+
+2. WHAT IS YOUR FAVORITE MOVIE?
+
+ANSWER 2:
+
+3. IF YOU COULD TRAVEL TO ONE PLACE IN THE WORLD FOR A WEEKEND, WHERE WOULD
+   YOU GO?
+
+ANSWER 3:
+
