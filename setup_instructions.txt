@@ -1,5 +1,6 @@
 Before you get started, you should discuss with your team and instructor the
 following vocab words: Git, GitHub, version control, and repository.
+Useful resource: https://guides.github.com/introduction/git-handbook/
 
 1. Download and install VS Code (If you prefer a different app for typing up
 your code, eventually you will be able to use that, but you should see what 
