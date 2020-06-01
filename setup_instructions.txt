@@ -34,15 +34,19 @@ Desktop, do the following:
 
  * You should now be viewing your own copy of the worksheet, which is 
    a part of your own separate copy of the repository. But for now,
-   your copy of the repository still only exists online. 
+   your copy of the repository still only exists online.
 
 5. Go into GitHub Desktop. Select the option to clone a repository 
-   from the internet. 
+   from the internet.
    
    * You should see a list of your repositories; select the one 
      listed as "<Your username>/git_training"
 
    * Finish the process of creating a local repository on your 
      computer, and take note of where the files are being saved.
+  
+   * In GitHub Desktop, select the "git_training" repository from
+     the menu at the top of the lefthand column. In the main window,
+     select the option to "Open in Visual Studio Code."
 
   
