@@ -1,20 +1,26 @@
-Before you get started, you should discuss with your team and instructor the
-following vocab words: Git, GitHub, version control, and repository.
+Before you get started, you should discuss with your team and 
+instructor the following terms: Git, GitHub, version control, 
+and repository. 
+
 Useful resource: https://guides.github.com/introduction/git-handbook/
 
-1. Download and install VS Code (If you prefer a different app for typing up
-your code, eventually you will be able to use that, but you should see what 
-VS Code can do)
+1. Download and install VS Code (If you prefer a different app for 
+typing up your code, eventually you will be able to use that, but 
+you should see what VS Code can do)
 
-2. On a web browser, go to github.com and create a user account (make sure to 
-complete the process by verifying your email!)
+2. On a web browser, go to github.com and create a user account 
+(make sure to complete the process by verifying your email!)
 
-2. Download and install the GitHub Desktop app; sign in using your GitHub account
+2. Download and install the GitHub Desktop app; sign in using your 
+GitHub account
 	
-3. You still have to separately install Git itself. In GitHub Desktop, do this:
-  * Windows: Under the "Repository" menu, select "Open in Command Line"
-	* Mac: Under the "Repository" menu, select "Open in Terminal"
-		Under "GitHub Desktop" menu, select "Install Command Line Tool ..."
+3. You still have to separately install Git itself. In GitHub 
+Desktop, do the following:
+  * Windows: Under the "Repository" menu, select "Open in 
+    Command Line"
+  * Mac: Under the "Repository" menu, select "Open in Terminal." 
+    Then, under "GitHub Desktop" menu, select "Install Command 
+    Line Tool ..."
 
 4. On a web browser, go to <Git lesson repository URL>.
  
@@ -30,11 +36,13 @@ complete the process by verifying your email!)
    a part of your own separate copy of the repository. But for now,
    your copy of the repository still only exists online. 
 
-5. Go into GitHub Desktop. Select the option to clone a repository from the
-   internet. You should see a list of your repositories, and you should be able
-   to select one that says "<Your username>/git_training"
+5. Go into GitHub Desktop. Select the option to clone a repository 
+   from the internet. 
+   
+   * You should see a list of your repositories; select the one 
+     listed as "<Your username>/git_training"
 
-   * Finish the process of creating a local repository on your computer, and
-     take note of where the files are being saved.
+   * Finish the process of creating a local repository on your 
+     computer, and take note of where the files are being saved.
 
   
