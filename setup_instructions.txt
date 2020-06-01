@@ -1,0 +1,36 @@
+Before you get started, you should discuss with your team and instructor the
+following vocab words: Git, GitHub, version control, and repository.
+
+1. Download and install VS Code (If you prefer a different app for typing up
+your code, eventually you will be able to use that, but you should see what 
+VS Code can do)
+
+2. On a web browser, go to github.com and create a user account (make sure to 
+complete the process by verifying your email!)
+
+2. Download and install the GitHub Desktop app; sign in using your GitHub account
+	
+3. You still have to separately install Git itself. In GitHub Desktop, do this:
+	– Windows: Under the "Repository" menu, select "Open in Command Line"
+	– Mac: Under the "Repository" menu, select "Open in Terminal"
+		Under "GitHub Desktop" menu, select "Install Command Line Tool ..."
+
+4. On a web browser, go to <Git lesson repository URL>.
+ 
+ * In the list of files, click on "1_Worksheet.txt." It should show 
+   you a text file with the header "Git Training Worksheet" in the 
+   browser window.
+ 
+ * On the right side of the box showing the text in the file, click 
+   on the pencil icon. It should create a fork (your own separate 
+   copy of the repository).
+
+ * You should now be viewing your own copy of the worksheet. You will
+   work on it both on the website and on your computer, but finish
+   the instructions below before you start filling in answers.
+
+5. Go into GitHub Desktop. Select the option to clone a repository from the
+   internet. You should see a list of your repositories, and you should be able
+   to select one that says "<Your username>/git_training"
+
+6. 
