@@ -6,16 +6,20 @@ you should do those first)
 To learn about using Git, we're going to do something that should be familar
 from school: fill out a worksheet.  
 
-As you go through and answer questions, think about the four places that your
-changes (answers) get recorded to: the file on your computer, your local Git 
+As you go through and answer questions, think about the separate places that your
+changes (answers) get recorded: the file on your computer, your local Git 
 repository, and your remote Git repository. Any work you do has to get to that
-last stop if you're ever going to be able to share it with your teammates.
+last stop if it's going to be used by your team.
 
 Answer the first question (and only the first one) in the space provided.
 
 1. WHAT DID YOU LAST HAVE FOR LUNCH?
 
-ANSWER 1: 
+ANSWER 1:
+
+
+
+
 
 2. WHAT IS YOUR FAVORITE MOVIE?
 
