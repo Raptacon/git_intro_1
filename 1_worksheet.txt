@@ -11,11 +11,11 @@ changes (answers) get recorded: the file on your computer, your local Git
 repository, and your remote Git repository. Any work you do has to get to that
 last stop if it's going to be used by your team.
 
-Answer the first question (and only the first one) in the space provided.
+Answer the FIRST QUESTION (and ONLY the first one) in the space provided.
 
 1. WHAT DID YOU LAST HAVE FOR LUNCH?
 
-ANSWER 1:
+ANSWER 1: Here is somebody's answer
 
 
 
