@@ -42,8 +42,9 @@ Answer the question below in the space provided, then save the file.
 
    ANSWER 2: 
 
-Repeat the process from above, but this time make sure to add a MESSAGE in each steps 
-explaining the changes that were made.  (Look )
+Repeat the process from above, but this time make sure to add a MESSAGE in each step 
+explaining the changes that were made.  (Look in the lower left corner in GitHub
+Desktop.)  
 
 *****************************************************
 
@@ -54,3 +55,5 @@ Answer the question below in the space provided, then save the file.
 
    ANSWER 3: 
 
+
+HERE ARE SOME CHANGES!!
