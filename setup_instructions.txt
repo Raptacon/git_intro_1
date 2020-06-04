@@ -22,21 +22,18 @@ Useful resource: https://guides.github.com/introduction/git-handbook/
 
 4. On a web browser, go to <Git lesson repository URL>.
  
- * In the list of files, click on "1_worksheet.txt." It should show 
+ * Click on the "Fork" button on the upper right. This will copy 
+   the collection of files into your own REMOTE REPOSITORY, 
+   separate from the original.
+ 
+ * In the list of files, click on "worksheet.txt." It should show 
    you a text file with the header "GIT PRACTICE WORKSHEET."
  
- * On the right side of the box showing the text in the file, click 
-   on the pencil icon. It should create a fork (your own separate 
-   copy of the repository).
-
- * You should now see your own copy of the worksheet, part of your
-   own online copy of the repository.
-
 5. Go into GitHub Desktop. Select the option to clone a repository 
    from the internet, which will create your local repository.
    
    * You should see a list of your repositories; select the one 
-     listed as "<Your username>/git_training"
+     listed as "<Your username>/git_intro_lesson"
 
    * Finish the process of creating a local repository on your 
      computer, and take note of where the files are being saved.
@@ -46,5 +43,5 @@ Useful resource: https://guides.github.com/introduction/git-handbook/
 
 6. You should now be in VS Code, and it will show you a list of the
    files in the repository in the lefthand column. Select 
-   "1_workshee.txt" and start following the instructions in there.
+   "worksheet.txt" and start following the instructions in there.
    Good luck and have fun!
