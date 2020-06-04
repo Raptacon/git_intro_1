@@ -22,8 +22,7 @@ Answer the question below in the space provided, then save the file.
 Take a look at the file in your GitHub web browser window. Notice that your changes 
 have not yet shown up here.  
 
-Now look in GitHub Desktop.  Discuss with your teammates what you are being shown 
-there.
+Now look in GitHub Desktop.
 
 You will need to do 2 things to get your changes into the online repository. 
   A) You will need to COMMIT the changes, which officially "saves" them in your 
@@ -31,6 +30,9 @@ You will need to do 2 things to get your changes into the online repository.
   B) You will need to PUSH the changes, which applies changes from any commits to the 
      remote repository.  Do that, then confirm in your web browser that the file has 
      changed online.
+
+Talk with your teammates about the possible reasons this process was set up with its 
+multple steps.
 
 *****************************************************
 
@@ -40,7 +42,8 @@ Answer the question below in the space provided, then save the file.
 
    ANSWER 2: 
 
-
+Repeat the process from above, but this time make sure to add a MESSAGE in each steps 
+explaining the changes that were made.  (Look )
 
 *****************************************************
 
