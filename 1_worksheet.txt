@@ -11,21 +11,39 @@ changes (answers) get recorded: the file on your computer, your local Git
 repository, and your remote Git repository. Any work you do has to get to that
 last stop if it's going to be used by your team.
 
-Answer the FIRST QUESTION (and ONLY the first one) in the space provided, then 
-save the file.
+*****************************************************
+
+Answer the question below in the space provided, then save the file.
 
    1. WHAT DID YOU LAST HAVE FOR LUNCH?
 
    ANSWER 1: 
 
 Take a look at the file in your GitHub web browser window. Notice that your changes 
-have not yet shown up here.  Now look in GitHub Desktop.  It will 
+have not yet shown up here.  
 
+Now look in GitHub Desktop.  Discuss with your teammates what you are being shown 
+there.
 
+You will need to do 2 things in GitHub Desktop. 
+  A) You will need to COMMIT the changes, which officially "saves" them in your 
+     local repository.  Do this by pushing the blue button in the lower right corner.
+  B) You will need to PUSH the changes, which "saves" them in your remote repository.
+     Do that, then confirm in your web browser that the file has changed online.
+
+*****************************************************
+
+Answer the question below in the space provided, then save the file.
 
    2. WHAT IS YOUR FAVORITE MOVIE?
 
    ANSWER 2:
+
+
+
+*****************************************************
+
+Answer the question below in the space provided, then save the file.
 
    3. IF YOU COULD TRAVEL TO ONE PLACE IN THE WORLD FOR A WEEKEND, WHERE WOULD
    YOU GO?
