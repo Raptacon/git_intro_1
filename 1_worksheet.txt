@@ -25,11 +25,12 @@ have not yet shown up here.
 Now look in GitHub Desktop.  Discuss with your teammates what you are being shown 
 there.
 
-You will need to do 2 things in GitHub Desktop. 
+You will need to do 2 things to get your changes into the online repository. 
   A) You will need to COMMIT the changes, which officially "saves" them in your 
      local repository.  Do this by pushing the blue button in the lower right corner.
-  B) You will need to PUSH the changes, which "saves" them in your remote repository.
-     Do that, then confirm in your web browser that the file has changed online.
+  B) You will need to PUSH the changes, which applies changes from any commits to the 
+     remote repository.  Do that, then confirm in your web browser that the file has 
+     changed online.
 
 *****************************************************
 
