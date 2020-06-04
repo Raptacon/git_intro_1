@@ -44,7 +44,14 @@ Answer the question below in the space provided, then save the file.
 
 Repeat the process from above, but this time make sure to add a MESSAGE in each step 
 explaining the changes that were made.  (Look in the lower left corner in GitHub
-Desktop.)  
+Desktop.)
+
+After you've done that, look at the web browser view of Git.  Click on the "Code" 
+tab to see the overall repository, then click on "Commits" to see the history of
+of commits that have been made.
+
+Talk with your teammates about why this could be helpful and why including messages
+with commits is important.
 
 *****************************************************
 
@@ -54,4 +61,3 @@ Answer the question below in the space provided, then save the file.
    YOU GO?
 
    ANSWER 3: 
-
