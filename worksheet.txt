@@ -86,4 +86,14 @@ on a SEPARATE BRANCH – they've been saved, but they haven't been made in the m
 version yet.
 
 Now, in the web browser, click the pencil icon to edit the worksheet.txt file by 
-filling in an answer to Question 4 below.
+filling in an answer to Question 4 below.  When you're done, click the "commit" 
+button at the bottom to save the changes.
+
+
+  4. IF YOU WENT TO THE PLACE FROM QUESTION 3, WHOM WOULD YOU LIKE TO TRAVEL WITH?
+
+  ANSWER 4: 
+
+
+SO, we now have two separate versions with answers to separate questions that we 
+would like to combine ... and we can do that! 
