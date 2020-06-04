@@ -38,7 +38,7 @@ Answer the question below in the space provided, then save the file.
 
    2. WHAT IS YOUR FAVORITE MOVIE?
 
-   ANSWER 2:
+   ANSWER 2: 
 
 
 
@@ -49,5 +49,5 @@ Answer the question below in the space provided, then save the file.
    3. IF YOU COULD TRAVEL TO ONE PLACE IN THE WORLD FOR A WEEKEND, WHERE WOULD
    YOU GO?
 
-   ANSWER 3:
+   ANSWER 3: 
 
