@@ -11,23 +11,24 @@ changes (answers) get recorded: the file on your computer, your local Git
 repository, and your remote Git repository. Any work you do has to get to that
 last stop if it's going to be used by your team.
 
-Answer the FIRST QUESTION (and ONLY the first one) in the space provided.
+Answer the FIRST QUESTION (and ONLY the first one) in the space provided, then 
+save the file.
 
-1. WHAT DID YOU LAST HAVE FOR LUNCH?
+   1. WHAT DID YOU LAST HAVE FOR LUNCH?
 
-ANSWER 1: 
+   ANSWER 1: 
 
-Save the file, then take a look in GitHub Desktop. It should be showing you
-the changes that have happened, specifically the answer you typed.
+Take a look at the file in your GitHub web browser window. Notice that your changes 
+have not yet shown up here.  Now look in GitHub Desktop.  It will 
 
 
 
-2. WHAT IS YOUR FAVORITE MOVIE?
+   2. WHAT IS YOUR FAVORITE MOVIE?
 
-ANSWER 2:
+   ANSWER 2:
 
-3. IF YOU COULD TRAVEL TO ONE PLACE IN THE WORLD FOR A WEEKEND, WHERE WOULD
+   3. IF YOU COULD TRAVEL TO ONE PLACE IN THE WORLD FOR A WEEKEND, WHERE WOULD
    YOU GO?
 
-ANSWER 3:
+   ANSWER 3:
 
