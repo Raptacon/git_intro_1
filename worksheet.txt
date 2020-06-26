@@ -47,9 +47,9 @@ Answer the question below in the space provided, then SAVE THE FILE.
    ANSWER 2: Movie
 
 
-Repeat the process from above, but this time make sure to add a MESSAGE in each step 
-explaining the changes that were made.  (Look in the lower left corner in GitHub
-Desktop.)
+Repeat the process from above, making sure to ADD A TITLE AND DESCRIPTION
+explaining the changes that were made.  (Being descriptive here saves
+a lot of time later on, so make it a habit!)
 
 After you've done that, look at the web browser view of Git.  Click on the "Code" 
 tab to see the overall repository, then click on "Commits" to see the history of
