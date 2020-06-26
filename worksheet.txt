@@ -51,7 +51,7 @@ Repeat the process from above, making sure to ADD A TITLE AND DESCRIPTION
 explaining the changes that were made.  (Being descriptive here saves
 a lot of time later on, so make it a habit!)
 
-After you've done that, look at the web browser view of Git.  Click on the "Code" 
+After you've done that, look at the web browser view of Git.  Click on the "Code"
 tab to see the overall repository, then click on "Commits" to see the history of
 of commits that have been made.
 
@@ -62,14 +62,14 @@ with commits is important.
 
 For the next part, we are going to work with Git's most important use: branching.
 
-In GitHub Desktop, click on "Current Branch" at the top of the window.  In the 
-textbox, type in "Question_3" and then click on the "New Branch" button.  Then 
+In GitHub Desktop, click on "Current Branch" at the top of the window.  In the
+textbox, type in "Question_3" and then click on the "New Branch" button.  Then
 click on the "Publish" button.
 
-You now have a separate branch where you can make changes without affecting the 
+You now have a separate branch where you can make changes without affecting the
 master branch, or the "main" version of your repository.
 
-In VS Code, type in your answer to Question 3 below, save it, and then commit and 
+In VS Code, type in your answer to Question 3 below, save it, and then commit and
 push the changes to the new branch.
 
 
@@ -79,16 +79,16 @@ push the changes to the new branch.
    ANSWER 3: Place
 
 
-Now look at the Git repository in your web browser by clicking on the "Code" tab. 
+Now look at the Git repository in your web browser by clicking on the "Code" tab.
 You should be seeing the master branch (check that on the lefthand side), and when
-you look in the worksheet.txt file, you shouldn't see your answer to Question 3, 
-EVEN THOUGH YOU PUSHED THE CHANGES.  That's because your changes have been saved 
-on a SEPARATE BRANCH – they've been saved, but they haven't been made in the main 
+you look in the worksheet.txt file, you shouldn't see your answer to Question 3,
+EVEN THOUGH YOU PUSHED THE CHANGES.  That's because your changes have been saved
+on a SEPARATE BRANCH – they've been saved, but they haven't been made in the main
 version yet.
 
-Now, in the web browser, click the pencil icon to edit the worksheet.txt file by 
-filling in an answer to Question 4 below.  When you're done, click the "commit" 
-button at the bottom to save the changes.
+Now, in the web browser, click the pencil icon to edit the worksheet.txt file by
+filling in an answer to Question 4 below.  When you're done, go to the bottom and
+WRITE A TITLE AND DESCRIPTION and click the "commit" button.
 
 
    4. IF YOU WENT TO THE PLACE FROM QUESTION 3, WHOM WOULD YOU LIKE TO TRAVEL WITH?
@@ -96,5 +96,5 @@ button at the bottom to save the changes.
    ANSWER 4: 
 
 
-SO, we now have two separate versions with answers to separate questions that we 
-would like to combine ... and we can do that! 
+SO, we now have two separate versions with answers to separate questions that we
+would like to combine ... and we can do that!
