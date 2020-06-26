@@ -96,5 +96,9 @@ WRITE A TITLE AND DESCRIPTION and click the "commit" button.
    ANSWER 4: Person
 
 
-SO, we now have two separate versions with answers to separate questions that we
-would like to combine ... and we can do that!
+SO, we now have two separate versions with answers to separate questions that we 
+ould like to combine ... and we can do that!
+
+In the web browser, go back to the overall view of the repository by clicking on 
+the "Code" tab.  Select the green button prompting you to "Compare and pull
+request."  
