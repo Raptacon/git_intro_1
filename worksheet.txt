@@ -93,7 +93,7 @@ WRITE A TITLE AND DESCRIPTION and click the "commit" button.
 
    4. IF YOU WENT TO THE PLACE FROM QUESTION 3, WHOM WOULD YOU LIKE TO TRAVEL WITH?
 
-   ANSWER 4: Person
+   ANSWER 4: 
 
 
 SO, we now have two separate versions with answers to separate questions that we 
