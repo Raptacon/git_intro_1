@@ -60,23 +60,23 @@ with commits is important.
 
 *****************************************************
 
-For the next part, we are going to work with Git's most important use: branching. 
+For the next part, we are going to work with Git's most important use: branching.
 
 In GitHub Desktop, click on "Current Branch" at the top of the window.  In the 
 textbox, type in "Question_3" and then click on the "New Branch" button.  Then 
 click on the "Publish" button.
 
 You now have a separate branch where you can make changes without affecting the 
-master branch, or the "main" version of the repository.
+master branch, or the "main" version of your repository.
 
 In VS Code, type in your answer to Question 3 below, save it, and then commit and 
-push the changes.
+push the changes to the new branch.
 
 
    3. IF YOU COULD TRAVEL TO ONE PLACE IN THE WORLD FOR A WEEKEND, WHERE WOULD
    YOU GO?
 
-   ANSWER 3: 
+   ANSWER 3: Place
 
 
 Now look at the Git repository in your web browser by clicking on the "Code" tab. 
