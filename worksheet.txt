@@ -31,8 +31,8 @@ You will need to do 2 things to get your changes into the online repository.
       "saves" them in your local repository.  In the lower left corner, enter a title and
       description and press the blue button.
    B) You will need to PUSH the changes, which applies changes from any commits to the
-      remote repository.  Do that, then confirm in your web browser that the file has
-      changed online.
+      remote repository.  Click the "push" button at the top, then confirm in your 
+      web browser that the file has changed online by reloading the page.
 
 Talk with your teammates about the possible reasons this process was set up with its 
 multple steps.
