@@ -34,8 +34,8 @@ You will need to do 2 things to get your changes into the online repository.
       remote repository.  Click the "push" button at the top, then confirm in your 
       web browser that the file has changed online by reloading the page.
 
-Talk with your teammates about the possible reasons this process was set up with its 
-multple steps.
+Talk with your teammates about the possible reasons this process was set up with its
+multiple steps.
 
 *****************************************************
 
@@ -44,7 +44,7 @@ Answer the question below in the space provided, then SAVE THE FILE.
 
    2. WHAT IS YOUR FAVORITE MOVIE?
 
-   ANSWER 2: 
+   ANSWER 2: Movie
 
 
 Repeat the process from above, but this time make sure to add a MESSAGE in each step 
