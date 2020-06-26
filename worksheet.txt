@@ -4,7 +4,7 @@ GIT PRACTICE WORKSHEET
 you should do those first)
 
 To learn about using Git, we're going to do something that should be familar
-from school: fill out a worksheet.  
+from school: fill out a worksheet.
 
 As you go through and answer questions, think about the separate places that your
 changes (answers) get recorded: the file on your computer, your local Git 
@@ -13,32 +13,33 @@ last stop if it's going to be used by your team.
 
 *****************************************************
 
-Answer the question below in the space provided, then save the file.
+Answer the question below in the space provided, then SAVE THE FILE.
 
 
    1. WHAT DID YOU LAST HAVE FOR LUNCH?
 
-   ANSWER 1: 
+   ANSWER 1: Food
 
 
 Take a look at the file in your GitHub web browser window. Notice that your changes 
-have not yet shown up here.  
+have not yet shown up here.
 
 Now look in GitHub Desktop.
 
-You will need to do 2 things to get your changes into the online repository. 
-  A) You will need to COMMIT the changes, which officially "saves" them in your 
-     local repository.  Do this by pushing the blue button in the lower right corner.
-  B) You will need to PUSH the changes, which applies changes from any commits to the 
-     remote repository.  Do that, then confirm in your web browser that the file has 
-     changed online.
+You will need to do 2 things to get your changes into the online repository.
+   A) You will need to COMMIT the changes WITH A TITLE AND DESCRIPTION, which officially
+      "saves" them in your local repository.  In the lower left corner, enter a title and
+      description and press the blue button.
+   B) You will need to PUSH the changes, which applies changes from any commits to the
+      remote repository.  Do that, then confirm in your web browser that the file has
+      changed online.
 
 Talk with your teammates about the possible reasons this process was set up with its 
 multple steps.
 
 *****************************************************
 
-Answer the question below in the space provided, then save the file.
+Answer the question below in the space provided, then SAVE THE FILE.
 
 
    2. WHAT IS YOUR FAVORITE MOVIE?
@@ -90,9 +91,9 @@ filling in an answer to Question 4 below.  When you're done, click the "commit"
 button at the bottom to save the changes.
 
 
-  4. IF YOU WENT TO THE PLACE FROM QUESTION 3, WHOM WOULD YOU LIKE TO TRAVEL WITH?
+   4. IF YOU WENT TO THE PLACE FROM QUESTION 3, WHOM WOULD YOU LIKE TO TRAVEL WITH?
 
-  ANSWER 4: 
+   ANSWER 4: 
 
 
 SO, we now have two separate versions with answers to separate questions that we 
