@@ -18,7 +18,7 @@ Answer the question below in the space provided, then SAVE THE FILE.
 
    1. WHAT DID YOU LAST HAVE FOR LUNCH?
 
-   ANSWER 1: 
+   ANSWER 1: Pizza
 
 
 Take a look at the file in your GitHub web browser window. Notice that your changes 
