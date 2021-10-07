@@ -44,7 +44,7 @@ Answer the question below in the space provided, then SAVE THE FILE.
 
    2. WHAT IS YOUR FAVORITE MOVIE?
 
-   ANSWER 2: 
+   ANSWER 2: Alien
 
 
 Repeat the process from above, making sure to ADD A TITLE AND DESCRIPTION
