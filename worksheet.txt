@@ -18,7 +18,7 @@ Answer the question below in the space provided, then SAVE THE FILE.
 
    1. WHAT DID YOU LAST HAVE FOR LUNCH?
 
-   ANSWER 1: Pizza
+   ANSWER 1: Subways
 
 
 Take a look at the file in your GitHub web browser window. Notice that your changes 
@@ -44,7 +44,7 @@ Answer the question below in the space provided, then SAVE THE FILE.
 
    2. WHAT IS YOUR FAVORITE MOVIE?
 
-   ANSWER 2: 
+   ANSWER 2: Starship Troopers
 
 
 Repeat the process from above, making sure to ADD A TITLE AND DESCRIPTION
@@ -64,7 +64,7 @@ For the next part, we are going to work with Git's most important use: branching
 
 In GitHub Desktop, click on "Current Branch" at the top of the window.  In the
 textbox, type in "Question_3" and then click on the "New Branch" button.  Then
-click on the "Publish" button.
+click on the "Publish" button. jaldjsa
 
 You now have a separate branch where you can make changes without affecting the
 master branch, or the "main" version of your repository.
@@ -76,7 +76,7 @@ push the changes to the new branch.
    3. IF YOU COULD TRAVEL TO ONE PLACE IN THE WORLD FOR A WEEKEND, WHERE WOULD
    YOU GO?
 
-   ANSWER 3: 
+   ANSWER 3: A cave nearish the surface of the earth with air and water.
 
 
 Now look at the Git repository in your web browser by clicking on the "Code" tab.
@@ -93,10 +93,10 @@ WRITE A TITLE AND DESCRIPTION and click the "commit" button.
 
    4. IF YOU WENT TO THE PLACE FROM QUESTION 3, WHOM WOULD YOU LIKE TO TRAVEL WITH?
 
-   ANSWER 4: 
+   ANSWER 4: My Kindle. Thats a person too.
 
 
-SO, we now have two separate versions with answers to separate questions that we 
+SO, we now have two separate versions with answers to sepearate questions that we 
 ould like to combine ... and we can do that!
 
 In the web browser, go back to the overall view of the repository by clicking on 
